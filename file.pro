@@ -2,7 +2,7 @@ QT += core
 QT -= gui
 QT += dbus
 
-TARGET = file_caca
+TARGET = ServiceFILE
 CONFIG += console
 CONFIG -= app_bundle
 
